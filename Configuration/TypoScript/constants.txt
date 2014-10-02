@@ -1,0 +1,14 @@
+# customsubcategory=trb_ce_icon=Icon
+
+plugin.tx_trbceicon {
+	view {
+		# cat=TRB Common: Paths/trb_ce_icon/10; type=string; label=Templates Root Path;
+		templateRootPath = EXT:trb_ce_icon/Resources/Private/Templates/
+
+		# cat=TRB Common: Paths/trb_ce_icon/20; type=string; label=Partials Root Path;
+		partialRootPath = EXT:trb_ce_icon/Resources/Private/Partials/
+
+		# cat=TRB Common: Paths/trb_ce_icon/30; type=string; label=Layouts Root Path;
+		layoutRootPath = EXT:trb_ce_icon/Resources/Private/Layouts/		
+	}
+}

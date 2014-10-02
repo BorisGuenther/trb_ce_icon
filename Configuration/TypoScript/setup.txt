@@ -1,0 +1,10 @@
+plugin.tx_trbceicon {
+	view {
+		templateRootPath = {$plugin.tx_trbceicon.view.templateRootPath}
+		partialRootPath = {$plugin.tx_trbceicon.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_trbceicon.view.layoutRootPath}
+	}
+}
+
+tt_content.trbceicon_icon.10 >
+

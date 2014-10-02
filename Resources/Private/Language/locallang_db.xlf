@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-06-02T16:45:24Z" product-name="trb_ce_icon">
+		<header/>
+		<body>
+			<!-- CType -->
+			<trans-unit id="ctype.name"><source>Icon</source></trans-unit>
+			<trans-unit id="ctype.description"><source>Icon with Header and Body</source></trans-unit>
+		</body>
+	</file>
+</xliff>
